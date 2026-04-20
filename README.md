@@ -1,1 +1,2 @@
-# Network-Intrusion-Dectection-System
+# Network Intrusion Detection System
+
